@@ -1,0 +1,6 @@
+gradio
+openai
+deepl
+torch
+torchaudio
+soundfile
