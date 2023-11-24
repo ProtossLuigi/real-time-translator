@@ -1,6 +1,8 @@
 # Real time translator
 A real time voice translator using OpenAI and DeepL models.
 
+Example of how it works in `example.mp4`.
+
 ## How to use
 
 ### 1. Requirements
@@ -17,5 +19,3 @@ A real time voice translator using OpenAI and DeepL models.
 - Choose preferred output voice
 - Choose language to translate to
 - Press Record to start voice translation
-
-https://github.com/ProtossLuigi/real-time-translator/example.mp4
