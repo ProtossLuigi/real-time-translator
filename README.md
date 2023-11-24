@@ -1,4 +1,4 @@
-# real-time-translator
+# Real time translator
 A real time voice translator using OpenAI and DeepL models.
 
 ## How to use
