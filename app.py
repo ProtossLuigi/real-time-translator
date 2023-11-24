@@ -12,8 +12,7 @@ INPUT_AUDIO_PATH = Path(__file__).parent / 'speech.wav'
 OUTPUT_AUDIO_PATH = Path(__file__).parent / 'speech.mp3'
 SAMPLING_RATE = 48000
 DETECTION_THRESHOLD = .5
-WINDOW_SIZE_SAMPLES = 100000
-PATIENCE = datetime.timedelta(seconds=2)
+PATIENCE = datetime.timedelta(seconds=1)
 
 with open('keys.txt') as fd:
     openai_key, deepl_key = fd.readlines()

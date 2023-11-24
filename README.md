@@ -17,3 +17,5 @@ A real time voice translator using OpenAI and DeepL models.
 - Choose preferred output voice
 - Choose language to translate to
 - Press Record to start voice translation
+
+https://github.com/ProtossLuigi/real-time-translator/example.mp4
